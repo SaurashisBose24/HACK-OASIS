@@ -1,0 +1,24 @@
+.radio-classPrediction{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.FormPrediction{
+    min-width: 400px;
+    min-height: 80vh;
+    background-image: linear-gradient(to right,#051937, #004d7a,#008793,#00bf72,#a8eb12);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 34.5%;
+    top: 5%;
+}
+
+.insideFormPrediction{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
